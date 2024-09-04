@@ -3,19 +3,21 @@
 ## Topics covered:
 * Version control
 * Task delegation
-* Ownership and Communities
 
-## Discussion: Ownership and Communities
-You are a tool developer who has been working with the AMALGAMATE game engine for a few years. You have seen it grow from a small tool to the backbone of many indie and AAA studios. The tool became popular due to its accessibility, open community, and being free to use for small developers (operating on a licensing model once a studio reaches certain revenue).
-
-As a well-known face in AMALGAMATE’s community, you have been asked by the company to review their new revenue model. Your contact at AMALGAMATE confesses to you they disagree with this structure, but that corporate interests are demanding changes to bring in more profit. 
-
-You’ve been given the following dot-points:
-* AMALGAMATE will now charge developers a royalty fee per-install of a game.
-* An "install" counts as a new install on a new device and excludes demos, development builds, etc.
-* The fee will only be applied once a game reaches above a threshold of 200k lifetime installs, and the studio reaches $200k in revenue over the last 12 months.
-* AMALGAMATE will track installs to ensure they are not fraudulent.
-* These new rules will apply to all games made with AMALGAMATE, even those from previous versions.
+> ## Discussion: Real world examples
+>So far, we've mainly discussed ethical issues in the abstract. For this week, your group will be assigned a case study with an accompanying news article, press release or white paper. Your job is to analyse this case study, applying what you've learnt from the ethics content in this unit to a real world scenario.
+>
+> Case studies:
+> * 1
+> * 2
+> * 3
+> * 4
+> 
+> For your scenario, discuss the following:
+> * What are the ethical issues/topics at play here?
+> * What are the different perspectives? How might the ACS or other frameworks be violated?
+> * Try to see it from the company's perspective - how did they get in this situation? What kind of ethical considerations were they balancing?
+> * Do you know of any similar scenarios where a company has made a different decision?
 
 What advice do you give AMALGAMATE? Are there any ACS values they are violating? What alternatives could they explore? As a tool developer, what responsibilities do you have to your work, your community and to AMALGAMATE?
 
