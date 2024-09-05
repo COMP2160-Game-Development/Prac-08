@@ -103,11 +103,11 @@ Do a code review for A’s work, following the C# Style Guide. Here are some gen
 Are there any issues that could be fixed? Report these to Dev A, and make sure they are noted down to show your demonstrator later.
 
 ## Git LFS
-We have provided you a model to use for your coins. Download the coin mesh from iLearn and place it inside your assets folder. You'll be using this later to create your coin object.
+We have provided you a model to use for your coins. It can be found under the "Resources" section of Week 8 on iLearn. Download the coin mesh from iLearn and place it inside your assets folder. You'll be using this later to create your coin object.
 
 The coin model is a .FBX file. This is a binary file, and so we don't want to store this using Github's normal version control system. Github provides Git LFS, or Git Large File Storage, which we can use to store this and other similar files.
 
-Copy the .gitattributes file from iLearn and place it inside your repository. If you already have a .gitattributes file, copy the text from the iLearn file into it.
+Copy the .gitattributes file from iLearn and place it inside your repository. It can be found under the "Resources" section of Week 8 on iLearn. If you already have a .gitattributes file, copy the text from the iLearn file into it.
 
 Much like .gitignore file removes certain files from your version control completely, Git LFS places them (models, images, sound, etc) into a seperate form of storage. There is a limit on this, so don't think this gives you license to import whatever you want.
 
