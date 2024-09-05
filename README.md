@@ -125,6 +125,7 @@ Merge the main branch (with the Scorekeeper) into your development branch.
 * Your task delegation between each other.
 * Your .gitignore file.
 * Your different branches.
+* Your coin mesh being properly stored using Git LFS.
 * Any changes that emerged from code review.
 
 ### Step 5 – Complete your tasks
