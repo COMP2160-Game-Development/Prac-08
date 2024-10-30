@@ -20,6 +20,9 @@
 > * Try to see it from the "other side" - if the company is acting incorrectly, why? What considerations are they balancing? If you think they are doing the right thing, what are the potential downsides of their approach? No solution is perfect!
 > * Do you know of any similar scenarios where a company has made a different decision?
 
+## Half-Marks Avaliable for all pracs! Check your repos!
+A reminder that half-marks are now avaliable for ALL PRAC TASKS. If you have completed the majority of a prac (everything but the last step), you may be able to get a half mark. Open your projects up and call over your demonstrator.
+
 ## Today's Task
 In this prac you will be working with a partner to practice team-based version control in Git. You will need to find someone else to work with on this task.
 
